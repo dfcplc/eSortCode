@@ -1,9 +1,8 @@
 # eSortCode
 
- [![Build Status](https://api.travis-ci.org/dfcplc/eSortCode.png)](https://travis-ci.org/dfcplc/eSortCode)
+ [![Build Status](https://travis-ci.org/dfcplc/eSortCode.svg)](https://travis-ci.org/dfcplc/eSortCode)
 
 [eSortCode](http://www.etellect.com/products/payment-services) UK Bank Account Validation - PHP Client Library
-
 
 To run:
 
