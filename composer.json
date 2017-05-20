@@ -1,0 +1,21 @@
+{
+    "name": "dfcplc/esortcode",
+    "description": "eSortCode Bank Account Validation",
+    "license": "MIT",
+    "keywords": ["esortcode", "bank", "account", "sortcode"],
+    "authors": [
+        {
+            "name": "Matt Clements",
+            "email": "matt.clements@debitfinance.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dfcplc\\eSortCode\\": "src"
+        }
+    }
+}
